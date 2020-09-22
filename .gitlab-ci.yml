@@ -1,0 +1,15 @@
+image: node:12.14.0
+
+cache:
+  paths:
+    - node_modules/
+    - .yarn
+
+before_script:
+  - yarn
+
+test:
+  script: yarn test
+
+build:
+  script: yarn build
