@@ -46,3 +46,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 Edited by Bitbucket. edit 2
 
 Edited by Azure. edit 2
+
+Edited by GitLab.
