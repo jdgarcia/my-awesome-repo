@@ -50,3 +50,5 @@ Edited by Azure. edit 2
 Edited by GitLab.
 
 Edit by Bitbucket. edit 2
+
+Edit by Azure.
