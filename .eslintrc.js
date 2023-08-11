@@ -6,7 +6,7 @@ module.exports = {
         "react-app",
       ],
       "rules": {
-        // "jsx-quotes": ["error", "prefer-single"]
+        "jsx-quotes": ["error", "prefer-single"]
       },
     },
   ],
